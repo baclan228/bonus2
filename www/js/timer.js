@@ -110,5 +110,5 @@ var tt = localStorage.getItem('sec5');
 
 
 $('#baner1').click(function(){
-    document.location.href='auth/add_money.php';
+    document.location.href='add_money.php';
 });
