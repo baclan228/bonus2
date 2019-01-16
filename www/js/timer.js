@@ -1,6 +1,6 @@
     var hr = "00";
     var ms = "00";
-    var sc = "30";
+    var sc = "10";
         
     var hours = hr;
     var minutes = ms;
@@ -62,6 +62,21 @@
         $('#baner3').css("display","block");
         $('#baner4').css("display","block");
         $('#baner5').css("display","block");
+        $('#baner1').click(function(){
+            document.location.href='add_money.php';
+        });
+        $('#baner2').click(function(){
+            document.location.href='add_money.php';
+        });
+        $('#baner3').click(function(){
+            document.location.href='add_money.php';
+        });
+        $('#baner4').click(function(){
+            document.location.href='add_money.php';
+        });
+        $('#baner5').click(function(){
+            document.location.href='add_money.php';
+        });
     }    
 }
 
@@ -108,7 +123,3 @@ var tt = localStorage.getItem('sec5');
      }    
           document.getElementById('tm').innerHTML = hours+":"+minutes+":"+sec;
 
-
-$('#baner1').click(function(){
-    document.location.href='add_money.php';
-});

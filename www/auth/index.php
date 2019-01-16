@@ -33,12 +33,49 @@ $time = $res['time'];
 						</tr> 
 					<!--<input type="button" value="mail" onclick="main()" >-->
 					</table>
-					<span id="inf">Чтобы забрать бонус нажмите на банеры внизу</span>
+					<span id="inf">Чтобы забрать бонус нажмите на любой банеры внизу</span>
 					<div id="baner1"><a href="http://socpublic.com/?i=1515410" target="_blank"><img src="http://socpublic.com/storage/banners/banner_7_468x60.gif" width="468" height="60" border="0" alt="SOCPUBLIC.COM - заработок в интернете!"onclick="main()"></a></div>
 					<div id="baner2"><a href="http://socpublic.com/?i=1515410" target="_blank"><img src="http://socpublic.com/storage/banners/banner_7_468x60.gif" width="468" height="60" border="0" alt="SOCPUBLIC.COM - заработок в интернете!"onclick="main()"></a></div>
 					<div id="baner3"><a href="http://socpublic.com/?i=1515410" target="_blank"><img src="http://socpublic.com/storage/banners/banner_7_468x60.gif" width="468" height="60" border="0" alt="SOCPUBLIC.COM - заработок в интернете!"onclick="main()"></a></div>
 					<div id="baner4"><a href="http://socpublic.com/?i=1515410" target="_blank"><img src="http://socpublic.com/storage/banners/banner_7_468x60.gif" width="468" height="60" border="0" alt="SOCPUBLIC.COM - заработок в интернете!"onclick="main()"></a></div>
 					<div id="baner5"><a href="http://socpublic.com/?i=1515410" target="_blank"><img src="http://socpublic.com/storage/banners/banner_7_468x60.gif" width="468" height="60" border="0" alt="SOCPUBLIC.COM - заработок в интернете!"onclick="main()"></a></div>
+				</div>
+				<div class="table_info">
+					<h1>Таблица бонусов</h1>
+					<table border="1" color='#6a6a6a'>
+						<tr>
+							<td>Число</td>
+							<td>Выйгрыш</td>
+						</tr>
+						<tr>
+							<td>0</td>
+							<td>0 &#8381</td>
+						</tr>
+						<tr>
+							<td>1-10</td>
+							<td>0.05 &#8381</td>
+						</tr>
+						<tr>
+							<td>10-20</td>
+							<td>0.10 &#8381</td>
+						</tr>
+						<tr>
+							<td>20-50</td>
+							<td>0.15 &#8381</td>
+						</tr>
+						<tr>
+							<td>50-70</td>
+							<td>0.25 &#8381</td>
+						</tr>
+						<tr>
+							<td>70-99</td>
+							<td>0.30 &#8381</td>
+						</tr>
+						<tr>
+							<td>100</td>
+							<td>5.00 &#8381</td>
+						</tr>
+					</table>
 				</div>
 			</div>
 <script language="JavaScript" type="text/javascript" src="../js/timer.js"></script>
